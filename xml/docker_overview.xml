@@ -10,10 +10,10 @@
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <title>Product Overview</title>
  <remark>toms 2019-02-04: add here some sentence</remark>
- <sect1 xml:id="Docker_Used_Drivers">
+ <sect1 xml:id="Docker-Used-Drivers">
   <title>&docker; Drivers</title>
   <remark>toms 2019-02-04: add here some sentence</remark>
-  <sect2 xml:id="Container_Drivers">
+  <sect2 xml:id="Container-Drivers">
    <title>Container Drivers</title>
    <para>
     &deng; uses
